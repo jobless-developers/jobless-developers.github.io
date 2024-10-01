@@ -78,13 +78,3 @@ Turning logic into art, one API at a time.
 
 **Footer**  
 © 2024 Jobless Developers | **Powered by Coffee, Code, and Creativity**
-
----
-
-### Tipps für die GitHub Landing Page:
-1. **Markdown**: Verwende GitHub Markdown für Formatierungen. Überschriften, Links, und Listen sind einfach zu erstellen.
-2. **Projekt-Links**: Füge Hyperlinks zu deinen Projektrepositories und GitHub Issues/Discussions hinzu.
-3. **Media Integration**: Verwende Bilder, wenn sinnvoll, um Projekte und Teammitglieder vorzustellen.
-4. **Readme.md**: Platziere diesen Inhalt in einer `README.md`, sodass er auf der Hauptseite deines GitHub-Repos angezeigt wird.
-
-Dieser Vorschlag sorgt dafür, dass Besucher sofort verstehen, was deine Entwicklerfirma ausmacht und wie sie deine Projekte erkunden oder sich anschließen können.
