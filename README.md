@@ -67,7 +67,7 @@ Always looking for the next big coding challenge.
 **Taylor, Frontend Specialist**  
 Master of sleek, responsive designs.
 
-**Jordan, Backend Guru**  
+**Dustin, Backend Guru**  
 Turning logic into art, one API at a time.
 
 ---
